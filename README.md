@@ -1,18 +1,18 @@
-# Number Recognition from Images
+# Number Recognition from Images 🔢
 
 This project focuses on recognizing numbers from images. Given the path to an image containing a number, the project outputs the number present in the picture.
 
-## Table of Contents
-- [Introduction](#introduction)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contact](#contact)
-- [License](#license)
+## Table of Contents 📑
+- [Introduction](#introduction) 📘
+- [Installation](#installation) ⚙️
+- [Usage](#usage) 🚀
+- [Contact](#contact) 📬
+- [License](#license) 📜
 
-## Introduction
-This Project is about just given the path of image that contain number project output will tell the number in picture.
+## Introduction 📘
+This project is about recognizing numbers from images. Given the path to an image containing a number, the project outputs the number present in the picture.
 
-## Installation
+## Installation ⚙️
 1. Clone the repository:
     ```sh
     git clone https://github.com/SyedMuqtasidAli/number-recognition.git
@@ -27,6 +27,13 @@ This Project is about just given the path of image that contain number project o
     ```sh
     pip install -r requirements.txt
     ```
+
+## Usage 🚀
+To recognize a number in an image, simply provide the path to the image as an argument to the script.
+
+```sh
+python recognize_number.py path/to/image.jpg
+```
 
 ## Usage
 To recognize a number in an image, simply provide the path to the image as an argument to the script.
